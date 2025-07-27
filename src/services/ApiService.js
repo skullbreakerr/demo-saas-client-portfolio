@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || "http://localhost:5000/api";
+const BASE_URL = process.env.Base_URL || "http://localhost:5000/api";
 
 const ApiService = {
   get: (url, config = {}) => axios.get(`${BASE_URL}${url}`, config),
