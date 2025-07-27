@@ -47,7 +47,7 @@ const ContactUs = () => {
                         </p>
                         <ul className="space-y-2 text-gray-700">
                             <li><strong>Email:</strong> support@example.com</li>
-                            <li><strong>Phone:</strong> +1 234 567 890</li>
+                            <li><strong>Phone:</strong> +91 93275 11795 </li>
                             <li><strong>Address:</strong> 123 Main St, City, Country</li>
                         </ul>
                     </div>
